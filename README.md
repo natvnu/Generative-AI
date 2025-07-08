@@ -13,7 +13,7 @@ Handle duplicate entries and missing values.
 3. Perform a Grid Search on the Ridge regression model to identify the optimum hyperparameter for the model for best performance
 
 The repository contains files:
-  1. Prompts
+  1. prompts.txt -  the list of prompts sent to AI agent 
   2. Falcon9WebScraping - web scraping Wikipedia content
   3. Falcon9DataWrangling - (conversion of categorical non-numerical landing outcomes into numerical labels (1,1,0,…)
   4. Falcon9SQL - using SQL queries to explore factors such as unique launch sites, total payload mass, the date of the first successful landing, etc... 
