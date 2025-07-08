@@ -5,12 +5,12 @@ A used car dealer has a special feature on Ford cars and wants to design a model
 
 The task is to use Generative AI to generate a code to complete the following:
 
-1. Handle duplicate entries and missing values. 
-2. Perform exploratory data analysis to draw keen insights on the data and determine the effect of different features on the price. Some specific requests     are:
-    a. Identify number of sales for each fuel type
-    b. Identify which transmission type has more price outliers
-3. Compare the models with linear, polynomial and ridge regressions on single and multiple variables to find the best performing model
-4. Perform a Grid Search on the Ridge regression model to identify the optimum hyperparameter for the model for best performance
+- Handle duplicate entries and missing values. 
+- Perform exploratory data analysis to draw keen insights on the data and determine the effect of different features on the price. Some specific requests     are:
+    - Identify number of sales for each fuel type
+    - Identify which transmission type has more price outliers
+- Compare the models with linear, polynomial and ridge regressions on single and multiple variables to find the best performing model
+- Perform a Grid Search on the Ridge regression model to identify the optimum hyperparameter for the model for best performance
 
 The repository contains files:
   1. prompts.txt -  the list of prompts sent to AI agent 
